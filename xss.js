@@ -1,1 +1,1 @@
-alert('XSS')
+alert('XSS_ADEOSEC')
