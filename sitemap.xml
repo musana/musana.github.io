@@ -4,7 +4,7 @@
   <url>
     <loc>https://musana.net/2021/12/13/log4shell-Quick-Guide/</loc>
     
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -112,6 +112,34 @@
   </url>
   
   <url>
+    <loc>https://musana.net/tags/requests/</loc>
+    <lastmod>2021-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://musana.net/tags/http-lib/</loc>
+    <lastmod>2021-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://musana.net/tags/request/</loc>
+    <lastmod>2021-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://musana.net/tags/python-http-requests/</loc>
+    <lastmod>2021-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://musana.net/tags/authentication/</loc>
     <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -148,34 +176,6 @@
   
   <url>
     <loc>https://musana.net/tags/HTTPBasicAuth/</loc>
-    <lastmod>2021-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://musana.net/tags/requests/</loc>
-    <lastmod>2021-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://musana.net/tags/http-lib/</loc>
-    <lastmod>2021-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://musana.net/tags/request/</loc>
-    <lastmod>2021-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://musana.net/tags/python-http-requests/</loc>
     <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
