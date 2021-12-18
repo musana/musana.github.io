@@ -49,176 +49,176 @@
 
   <url>
     <loc>https://musana.net/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://musana.net/tags/authentication/</loc>
-    <lastmod>2021-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://musana.net/tags/basic-auth/</loc>
-    <lastmod>2021-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://musana.net/tags/brute-force/</loc>
-    <lastmod>2021-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://musana.net/tags/python/</loc>
-    <lastmod>2021-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://musana.net/tags/burp/</loc>
-    <lastmod>2021-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://musana.net/tags/burp-suite/</loc>
-    <lastmod>2021-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://musana.net/tags/HTTPBasicAuth/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://musana.net/tags/boolean-sqli/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://musana.net/tags/exploit/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://musana.net/tags/sql-injection/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://musana.net/tags/mysql-real-escape-string-bypass/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://musana.net/tags/addslashes-bypass/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://musana.net/tags/exploit-tool/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://musana.net/tags/sqlmap/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://musana.net/tags/authentication/</loc>
+    <lastmod>2021-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://musana.net/tags/basic-auth/</loc>
+    <lastmod>2021-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://musana.net/tags/brute-force/</loc>
+    <lastmod>2021-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://musana.net/tags/burp/</loc>
+    <lastmod>2021-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://musana.net/tags/burp-suite/</loc>
+    <lastmod>2021-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://musana.net/tags/HTTPBasicAuth/</loc>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://musana.net/tags/requests/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://musana.net/tags/http-lib/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://musana.net/tags/request/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://musana.net/tags/python-http-requests/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://musana.net/tags/log4shell/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://musana.net/tags/log4j/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://musana.net/tags/log4shell-detection/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://musana.net/tags/log4shell-bypass/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://musana.net/tags/log4shell-exploit/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://musana.net/tags/log4shell-mitigation/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -227,21 +227,21 @@
   
   <url>
     <loc>https://musana.net/categories/Web-Security/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://musana.net/categories/Programming/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://musana.net/categories/Application-Security/</loc>
-    <lastmod>2021-12-16</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
