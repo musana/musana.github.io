@@ -56,49 +56,7 @@
 
   
   <url>
-    <loc>https://musana.net/tags/authentication/</loc>
-    <lastmod>2021-12-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://musana.net/tags/basic-auth/</loc>
-    <lastmod>2021-12-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://musana.net/tags/brute-force/</loc>
-    <lastmod>2021-12-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://musana.net/tags/python/</loc>
-    <lastmod>2021-12-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://musana.net/tags/burp/</loc>
-    <lastmod>2021-12-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://musana.net/tags/burp-suite/</loc>
-    <lastmod>2021-12-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://musana.net/tags/HTTPBasicAuth/</loc>
     <lastmod>2021-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -148,6 +106,48 @@
   
   <url>
     <loc>https://musana.net/tags/sqlmap/</loc>
+    <lastmod>2021-12-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://musana.net/tags/authentication/</loc>
+    <lastmod>2021-12-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://musana.net/tags/basic-auth/</loc>
+    <lastmod>2021-12-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://musana.net/tags/brute-force/</loc>
+    <lastmod>2021-12-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://musana.net/tags/burp/</loc>
+    <lastmod>2021-12-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://musana.net/tags/burp-suite/</loc>
+    <lastmod>2021-12-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://musana.net/tags/HTTPBasicAuth/</loc>
     <lastmod>2021-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
